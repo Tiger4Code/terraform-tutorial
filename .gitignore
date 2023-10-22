@@ -20,5 +20,6 @@ override.tf
 # terraform.rc
 terraform.rc
 
+.terraform.lock.hcl
 
 .DS_Store
