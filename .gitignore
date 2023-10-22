@@ -25,3 +25,30 @@ terraform.rc
 *.lock
 
 .DS_Store
+
+# Ignore sensitive files
+*.pem
+*.key
+*.pub
+*.p12
+*.pfx
+*.cer
+*.crt
+*.jks
+*.pem
+*.pkcs12
+*.asc
+
+# Ignore credentials and secrets
+.env
+*.env.*
+*.secret
+*.secrets
+*.password
+*.passwd
+*.pem
+*.key
+*.pfx
+*.p12
+*.pem
+*.jks
