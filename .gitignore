@@ -20,6 +20,8 @@ override.tf
 # terraform.rc
 terraform.rc
 
+# Ignore lock files
 .terraform.lock.hcl
+*.lock
 
 .DS_Store
