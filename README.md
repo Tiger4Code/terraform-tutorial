@@ -1,6 +1,6 @@
 # Terraform Tutorial for Beginners
 
-This repository contains code examples and configuration files used in the Terraform tutorial for beginners. The content corresponds to the code presented in the [Terraform Tutorial for Beginners (Arabic)](https://www.youtube.com/@tiger4code) by [YouTube.com/@Tiger4Code] (https://www.youtube.com/@tiger4code), covering various aspects of Terraform, including:
+This repository contains code examples and configuration files used in the Terraform tutorial for beginners. The content corresponds to the code presented in the [Terraform Tutorial for Beginners (Arabic)](https://youtu.be/DZuqE0aQQ9A) by [YouTube.com/@Tiger4Code] (https://www.youtube.com/@tiger4code), covering various aspects of Terraform, including:
 
 - File & Directory Structure
 - Installation
